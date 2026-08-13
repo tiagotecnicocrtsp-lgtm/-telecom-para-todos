@@ -26,7 +26,9 @@ O **Telecom para Todos** é uma proposta técnica de engenharia focada no combat
 ## 📄 Documentação Completa (PDF)
 Acesse a proposta técnica na íntegra, formatada em padrão de memorial descritivo corporativo e assinada digitalmente:
 
-👉 **[Clique aqui para visualizar/baixar o PDF do Projeto](./Projeto_Telecom_para_Todos_Tiago_Moreira.pdf)**
+👉 **[Clique aqui para visualizar/baixar o PDF do Projeto]()**
 
 ---
-*Projeto desenvolvido para fins de composição de portfólio de engenharia de redes e infraestrutura móvel.*
+*https://1drv.ms/b/c/6beb47102aee6e70/IQCXCrvtI2GVT7MZ_rNK2s1FAUC7YzXQSEwU4dS_YKZcKH 
+
+Projeto desenvolvido para fins de composição de portfólio de engenharia de redes e infraestrutura móvel.*
